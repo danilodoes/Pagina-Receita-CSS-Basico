@@ -1,0 +1,96 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+h1,
+h2 {
+    color: #ff6b28;
+    font-weight: 700;
+}
+
+#top-bar {
+    padding: 15px;
+    background-color: #ff6b28;
+    text-align: center;
+}
+
+#bottom-bar {
+    margin-top: 5%;
+    background-color: #ff6b28;
+    text-align: center;
+    padding: 3px;
+    
+}
+
+#bottom-bar p{
+    color: white;
+    max-width: 500px;
+    margin: auto;
+}
+
+.container-bg-img {
+    background-image: url("../Aula 1 - Apresentação do Projeto/images/hero_bolo.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 40vh;
+}
+.titulo{
+    margin-top: 5%;
+}
+
+
+li {
+    line-height: 2em;
+}
+
+p{
+    line-height: 1.5em;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
+.ingredientes,
+.preparo,
+.instrucoes {
+    margin: 3%;
+    padding: 2%;
+}
+
+.ingredientes:hover,
+.preparo:hover,
+.instrucoes:hover {
+    box-shadow: 1px 1px 30px gray;
+    /* box-shadow: 8px 8px 15px 12px rgba(205, 205, 205, 0.25); */
+    border-radius: 20px;
+}
+
+.ingredientes:hover {
+    cursor: url("../Aula\ 1\ -\ Apresentação\ do\ Projeto/images/cursor_ingredientes.png"), default;
+}
+
+.preparo:hover {
+    cursor: url("../Aula\ 1\ -\ Apresentação\ do\ Projeto/images/cursor_preparo.png"), default;
+}
+
+.instrucoes:hover {
+    cursor: url("../Aula\ 1\ -\ Apresentação\ do\ Projeto/images/cursor_intrucoes.png"), default;
+}
+
+
+.botao {
+    padding:2%;
+    width: 10em;
+    background-color: #ff6b28;
+    border-radius: 20px;
+    text-align: center; 
+}
+
+a {
+    text-decoration: none;   
+    color: white;
+}
