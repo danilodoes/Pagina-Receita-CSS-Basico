@@ -13,5 +13,5 @@ Desafio proposto pelo Igor Oliveira, no curso Programador BR.
 ## Demo 📷
 
 <p align="center">
-  <img width="900" src="toReadme/page.gif">
+  <img width="900" src="toReadme/receita.gif">
 </p>
