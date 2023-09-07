@@ -4,7 +4,7 @@ Desafio proposto pelo Igor Oliveira, no curso Programador BR.
 ## Objetivo do Projeto 🎯
 - Fins de estudo e documentação do meu desenvolvimento pessoal;
 - Fixar conceitos;
-- Praticar programação e as "boas maneiras".
+- Treinar "boas maneiras/praticas" na programação.
 
 ## Tecnologias Utilizadas 💻
 - HTML 5 
